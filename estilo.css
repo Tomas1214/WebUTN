@@ -1,0 +1,16 @@
+html {
+    font-size: 1.25rem;
+    background-color:beige;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#special {
+    color:darkred;
+}
+
+.subtitled {
+    text-decoration: underline;
+}
